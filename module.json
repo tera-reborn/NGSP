@@ -6,7 +6,7 @@
         "cliName": "NGSP",
         "guiName": "Skill Prediction"
     },
-    "servers": ["https://raw.githubusercontent.com/OmikamiMiko/NGSP/master/"],
+    "servers": ["https://raw.githubusercontent.com/tera-reborn/NGSP/master/"],
     "conflicts": [
         "skill-prediction",
         "skill-prediction-master",
